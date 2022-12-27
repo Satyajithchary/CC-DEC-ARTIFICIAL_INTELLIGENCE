@@ -1,4 +1,4 @@
-This folder contains codes which predict the sales for the 13th month from the use of previous 12 month sale data. And the algorithm used here is Linear Regression.
+This folder contains codes which predict the sales for the 13th month from the use of previous 12 months sale data. And the algorithm used here is Linear Regression.
 
 And the used sales data of 12 months is from Kaggle Datset.
 
