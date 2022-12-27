@@ -6,7 +6,7 @@ And this dataset contains 4 columns of Date, Store, Item and Sales.
 
 Dataset: https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data?select=train.csv
 
-This is a time series analysis where we have used the day to day data for the prediciton of the upcomming days.
+This is a time series analysis where we have used the day to day data for the predicton of the upcoming days.
 
 First, the Google drive is imported and mounted to upload dataset and it is stored into Sale_data.
 
